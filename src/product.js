@@ -10,4 +10,5 @@ export default class {
   get price() {
     return _price;
   }
+  
 }
